@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mazzaleen, i am a rising Junior studying at Brown University studying Computer Science and Economics.
 - 👀 I’m incredibly interested in Product Management, Data Science, and general Full-Stack Software Engineering.
-- 🌱 I’m currently learning Data Structures and algorithms, Software engineering, blockchains and cryptocurruncies. 
+- 🌱 I’m currently learning Data Science, Software engineering, Deep Learning and Cybersecruity. 
 - 💞️ I’m looking to collaborate on any personal projects and hackathons :) 
 - 📫  You can reach me on my linkedin which also contains my email and phone number: https://www.linkedin.com/in/mazine-s-suliman/
 
