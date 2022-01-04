@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mazzaleen, I am a  Junior @ Brown studying Computer Science and Economics.
 - 👀 I’m incredibly interested in Product Management, Data Science, and  Full-Stack Software Engineering.
 - 🌱 I’m currently learning Data Science, Software engineering, and Deep Learning. 
+- ⚽ My Hobbies are: Speed-Running videogames, Reading Spanish Novels, Trying perfumes, UEFA Champions League
 - 💞️ I’m open to collaborate on any personal projects and hackathons!
 - 📫 You can contact me on my Linkedin: https://www.linkedin.com/in/mazine-s-suliman/
 - 🌐 My Personal Portfolio Website: https://mazzaleen.github.io/mazza/resume.html
