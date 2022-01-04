@@ -2,7 +2,7 @@
 - 👀 I’m incredibly interested in Product Management, Data Science, and  Full-Stack Software Engineering.
 - 🌱 I’m currently learning Data Science, Software engineering, and Deep Learning. 
 - 💞️ I’m open to collaborate on any personal projects and hackathons!
-- 📫 You can contact me on my linkedin: https://www.linkedin.com/in/mazine-s-suliman/
+- 📫 You can contact me on my Linkedin: https://www.linkedin.com/in/mazine-s-suliman/
 - 🌐 My Personal Portfolio Website: https://mazzaleen.github.io/mazza/resume.html
 
 <!---
