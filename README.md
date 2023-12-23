@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Mazine Suliman, a recent graduate from Brown University with a dual concentration in Computer Science and Economics.
-- 👀 I’m passionate about applying my technical and analytical skills in Product Management, Data Science, and Full-Stack Software Engineering.
-- 🌱 I have experience in software engineering, product management, and consulting, and I'm actively seeking early career opportunities in these areas for 2024.
+- 🐻 Hello, I’m Mazine, a recent Brown University grad with a dual concentration in Computer Science & Economics.
+- 🍎 Currently at Apple, I'm part of the Beta Software team, focusing on upgrading and improving the Feedback Assistant app's reliability and scalability.
+- 💻 This Github profile contains most of my personal and academic projects. 
+- 💼 I've done internships at Salesforce, IBM, and ECRI, while also taking on leadership and educational roles at my university.
 - ⚽ In my free time, I enjoy speed-running video games, reading Spanish novels, exploring perfumes, and following the UEFA Champions League.
-- 💞️ I’m open to collaborating on personal projects and hackathons. anything to help me get a job in this market really 
 - 📫 You can reach out to me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mazine-s-suliman/).
 - 🌐 Check out my Personal Portfolio Website: [Portfolio Website](https://mazzaleen.github.io/mazza2/).
 
