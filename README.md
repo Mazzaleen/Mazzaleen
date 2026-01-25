@@ -117,7 +117,7 @@
 
 <h3>Product Management</h3>
 <p>
-  <img src="https://balsamiq.com/assets/company/brandassets/smileyface-transparent-1080x1080.png" width="40" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1mMGLpZ6G7qOmlYTaVWw-qBAMAJkwmHMhwg&s" width="40" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968793.png" width="40" />
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" width="40" />
