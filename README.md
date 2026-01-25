@@ -13,7 +13,7 @@
 
 <h3 align="center">What I’m working on</h3>
 <ul align="center">
-  <li>LLM-driven feedback clustering, summarization, and evaluation (Gemini, Claude, OpenAI)</li>
+  <li>LLM-driven feedback clustering, summarization, and evaluation</li>
   <li>Product discovery using qualitative + quantitative customer signals</li>
   <li>Privacy-sensitive pipelines for large-scale user feedback</li>
 </ul>
