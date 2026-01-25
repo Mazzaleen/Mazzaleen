@@ -15,7 +15,7 @@
 <ul align="center">
   <li>LLM-driven feedback clustering, summarization, and evaluation</li>
   <li>Product discovery using qualitative + quantitative customer signals</li>
-  <li>Privacy-sensitive pipelines for large-scale user feedback</li>
+  <li>Privacy-sensitive pipelines for large-scale Customer Data</li>
 </ul>
 
 <h2 align="center">Connect with me</h2>
