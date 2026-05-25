@@ -13,9 +13,8 @@
 
 <h3 align="center">What I’m working on</h3>
 <ul align="center">
-  <li>LLM-driven feedback clustering, summarization, and evaluation</li>
+  <li>LLM-driven clustering, summarization, and evaluation</li>
   <li>Product discovery using qualitative + quantitative customer signals</li>
-  <li>Privacy-sensitive pipelines for large-scale Customer Data</li>
 </ul>
 
 <h2 align="center">Connect with me</h2>
@@ -23,14 +22,8 @@
   <a href="https://linkedin.com/in/mazines" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://mazzaleen.github.io/mazza2/" target="blank">
-    <img src="https://raw.githubusercontent.com/Mazzaleen/mazza2/main/src/components/assets/penguinfavi.ico" height="30" width="40" />
-  </a>
   <a href="https://medium.com/@mazine_suliman" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/mazzaleen/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
